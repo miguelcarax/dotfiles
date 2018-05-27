@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/miguel/.vim'
+let g:netrw_dirhist_2='/home/miguel/Proyectos/CAF/ansible/playbooks'
+let g:netrw_dirhist_3='/home/miguel/.vim'
+let g:netrw_dirhist_4='/home/miguel/Proyectos/CAF/ansible/etc'
+let g:netrw_dirhist_5='/home/miguel/Proyectos/CAF/ansible/dev/etc'
+let g:netrw_dirhist_6='/etc'
+let g:netrw_dirhist_7='/home/miguel/.antigen/repos/https-COLON--SLASH--SLASH-github.com-SLASH-eendroroy-SLASH-nothing.git'
